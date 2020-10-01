@@ -39,8 +39,6 @@ android_library {
         "appcompat/res",
         "res",
     ],
-
-    aaptflags: ["--legacy"],
 }
 
 //#################################################
@@ -68,7 +66,5 @@ android_library {
     resource_dirs: [
         "activity/res",
         "res",
-    ],
-
-    aaptflags: ["--legacy"],
+    ]
 }
