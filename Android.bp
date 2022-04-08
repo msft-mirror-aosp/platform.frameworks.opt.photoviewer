@@ -15,10 +15,6 @@
 //#################################################
 // Build appcompat library
 
-package {
-    default_applicable_licenses: ["Android-Apache-2.0"],
-}
-
 android_library {
     name: "libphotoviewer_appcompat",
 
