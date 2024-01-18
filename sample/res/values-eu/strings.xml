@@ -4,5 +4,5 @@
     <string name="app_name" msgid="6534472978887454478">"Argazki ikustailearen adibidea"</string>
     <string name="menu_settings" msgid="4422995668159108064">"Ezarpenak"</string>
     <string name="title_activity_main" msgid="7854395873771803232">"Jarduera nagusiak"</string>
-    <string name="launch" msgid="6848049715183303298">"Abiarazi argazki-ikustailea"</string>
+    <string name="launch" msgid="6848049715183303298">"Exekutatu argazki-ikustailea"</string>
 </resources>
